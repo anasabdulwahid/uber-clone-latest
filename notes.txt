@@ -1,0 +1,61 @@
+https://www.youtube.com/watch?v=bvn_HYpix6s
+continue 159
+code . for vscode open
+
+ctrl space to import store
+
+rnfes for standard screen
+
+tailwind
+https://www.npmjs.com/package/tailwind-react-native-classnames
+
+debugging
+https://docs.expo.dev/workflow/debugging/#development-errors
+
+https://links.papareact.com/gzs
+https://links.papareact.com/3pn
+https://links.papareact.com/28w
+
+error 
+https://stackoverflow.com/questions/54886508/defining-expo-entrypoint-in-app-json-does-not-work
+https://reactnavigation.org/docs/troubleshooting/
+
+
+https://stackoverflow.com/questions/54886508/defining-expo-entrypoint-in-app-json-does-not-work
+
+new error
+https://expo.fyi/no-registered-application
+https://github.com/th3rdwave/react-native-safe-area-context/issues/110
+https://github.com/ikakara/expo-sdk38-bug
+
+Hey Guys!!
+If any of you guys are having Peer Dependency 
+"npm ERR! Conflicting peer dependency: react@17.0.2
+npm ERR!   peerOptional react@"^16.14.0 || ^17.0.0" from @reduxjs/toolkit@1.6.1" issue 
+, then you have to upgrade your React by going into node modules folder and writing your desired version(17.0.0> due to redux toolkit).
+
+I hope it helps somebody 😊
+correct solution
+npm install --legacy-peer-deps
+https://stackoverflow.com/questions/64842060/react-react-dom-package-dependency-conflict
+
+https://github.com/FaridSafi/react-native-google-places-autocomplete
+google icloud API key
+GOOGLE_MAPS_APIKEY=AIzaSyCoYozW5vilUom2ScD3jeZ8p53nuFlGQeo
+
+react native maps
+https://github.com/react-native-maps/react-native-maps
+npm add react-native-maps
+
+To add .env file
+npm add react-native-dotenv
+
+delete node modules
+rm -rf node_modules
+
+new error
+https://issuehunt.io/r/goatandsheep/react-native-dotenv/issues/141
+
+restart expo clear catch
+expo r-c
+
